@@ -1,3 +1,6 @@
+## 4.0.1
+* Added html list tags support
+
 ## 4.0.0
 * Breaking change, this package now needs a Flutter version >= 3
 * Update dependencies
