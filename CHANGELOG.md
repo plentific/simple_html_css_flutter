@@ -1,5 +1,9 @@
+## 5.0.0
+* **Breaking change** this package now needs a Flutter version >= 3.22
+* Remove html_unescape from package, input has to be unescaped before you pass in
+
 ## 4.0.1
-* Added html list tags support
+* Allow bypassing HTML content unescaping
 
 ## 4.0.0
 * Breaking change, this package now needs a Flutter version >= 3
