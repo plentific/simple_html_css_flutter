@@ -1,3 +1,8 @@
+## 5.1.0
+* Update dependencies for Flutter 3.44 compatibility
+* Update `xml` to ^7.0.1
+* Update `flutter_lints` to ^6.0.0
+
 ## 5.0.0
 * **Breaking change** this package now needs a Flutter version >= 3.22
 * Remove html_unescape from package, input has to be unescaped before you pass in
